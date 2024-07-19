@@ -1,5 +1,11 @@
 # Калининград
 
+## GDG Kaliningrad
+- [Telegram-канал](https://t.me/gdgkld) - https://t.me/gdgkld
+
+## WomenTechmakers (WTM) Kaliningrad
+- [Telegram-чат](https://t.me/wtm_kgd) - https://t.me/wtm_kgd
+
 ## QA Калининград
 - [Telegram-чат](https://t.me/qa_kgd) - https://t.me/qa_kgd
 
@@ -19,6 +25,12 @@
 ## .Net Kaliningrad
 - [Telagram-канал](https://t.me/net_kgd) - https://t.me/net_kgd
 - [Telagram-чат](https://t.me/net_kgd_discussion) - https://t.me/net_kgd_discussion
+
+## PHP Kaliningrad
+- [Telegram-чат](https://t.me/php39) - https://t.me/php39
+
+## JavaScript Kaliningrad
+- [Telegram-чат](https://t.me/kgd_js) - https://t.me/kgd_js
 
 ## Kaliningrad Game Dev Community
 - [Telagram-чат](https://t.me/kgd_community) - https://t.me/kgd_community
